@@ -1,0 +1,28 @@
+{
+  "age": {
+    "LongName": "",
+    "Description": "age of the participant",
+    "Levels": {
+    },
+    "Units": "years",
+    "TermURL": "http://www.todo.com/fixme"
+  },
+  "sex": {
+    "LongName": "",
+    "Description": "sex of the participant as reported by the participant",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    },
+    "Units": "",
+    "TermURL": "http://www.todo.com/fixme"
+  },
+  "group": {
+    "LongName": "",
+    "Description": "participant group assignment",
+    "Levels": {
+    },
+    "Units": "",
+    "TermURL": "http://www.todo.com/fixme"
+  }
+}
