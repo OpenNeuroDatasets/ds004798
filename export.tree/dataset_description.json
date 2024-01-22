@@ -1,0 +1,33 @@
+{
+    "Name": "fMRI data for: Multimodal brain responses during movie watching: single-neuron, intracranial EEG, and fMRI in human patients",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Umit Keles",
+        "Julien Dubois",
+        "Kevin J. M. Le",
+        "J. Michael Tyszka",
+        "David A. Kahn",
+        "Chrystal M. Reed",
+        "Jeffrey M. Chung",
+        "Adam N. Mamelak",
+        "Ralph Adolphs",
+        "Ueli Rutishauser"
+    ],
+    "Acknowledgements": "We thank the clinical team at Cedars-Sinai Medical Center for patient management and Rhodri Cusack for sharing the movie stimulus with us.",
+    "HowToAcknowledge": "Please cite: Pending",
+    "Funding": [
+        "NIMH Caltech Conte Center (P50MH094258 to R.A.)",
+        "BRAIN initiative through the National Institute of Neurological Disorders and Stroke (U01NS117839 to U.R.)",
+        "Simons Collaboration on the Global Brain (542941 to R.A. and U.R.)"
+    ],
+    "EthicsApprovals": [
+        "All experimental protocols were approved by the Institutional Review Boards of the California Institute of Technology (Caltech) and Cedars-Sinai Medical Center (CSMC)"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/rutishauserlab/bmovie-release-NWB-BIDS",
+        "https://dandiarchive.org/dandiset/000623"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004798.v1.0.3"
+}
