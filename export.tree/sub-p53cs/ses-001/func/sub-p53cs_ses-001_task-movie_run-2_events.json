@@ -1,6 +1,0 @@
-{
-    "frame_number": {
-        "Description": "Corresponding frame number from the movie.",
-        "HED": "(Label/frame_number, Label/#)"
-    }
-}
