@@ -1,5 +1,5 @@
 {
-    "Name": "fMRI data for: Multimodal brain responses during movie watching: single-neuron, intracranial EEG, and fMRI in human patients",
+    "Name": "fMRI data for: Multimodal single-neuron, intracranial EEG, and fMRI brain responses during movie watching in human patients",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "License": "CC0",
