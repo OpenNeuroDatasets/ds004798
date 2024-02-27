@@ -5,5 +5,5 @@ We present a multimodal dataset of intracranial recordings, fMRI, and eye tracki
 This dataset accompanies the following data descriptor: Keles, U., Dubois, J., Le, K.J.M., Tyszka, J.M., Kahn, D.A., Reed, C.M., Chung, J.M., Mamelak, A.N., Adolphs, R. and Rutishauser, U. Multimodal single-neuron, intracranial EEG, and fMRI brain responses during movie watching in human patients. Sci Data 11, 214 (2024). [Link to paper](https://doi.org/10.1038/s41597-024-03029-1)
 
 Related code: https://github.com/rutishauserlab/bmovie-release-NWB-BIDS
-Intracranial recording data: https://dandiarchive.org/dandiset/000623
 
+Intracranial recording data: https://dandiarchive.org/dandiset/000623
